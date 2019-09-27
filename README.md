@@ -2,4 +2,4 @@
 this is a online eduction web app.
 this is a online eduction web app
 
-good good study, day day up
+good good study, day day up!
